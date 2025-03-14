@@ -1,5 +1,5 @@
 pipeline:
-  name: Provision terraform
+  name: Provision terraform 2
   identifier: Provision_terraform
   projectIdentifier: CICD_NodeJs_Terraform_ECS
   orgIdentifier: default
