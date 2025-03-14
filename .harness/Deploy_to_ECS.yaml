@@ -1,5 +1,5 @@
 pipeline:
-  name: Deploy to ECS
+  name: Deploy to ECS 2
   identifier: Deploy_to_ECS
   projectIdentifier: CICD_NodeJs_Terraform_ECS
   orgIdentifier: default
